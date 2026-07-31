@@ -1,0 +1,16 @@
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+chiken_car\tasks.o: D:\app_keil\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+chiken_car\tasks.o: D:\app_keil\keil\ARM\ARMCC\Bin\..\include\string.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+chiken_car\tasks.o: D:\app_keil\keil\ARM\ARMCC\Bin\..\include\stddef.h
+chiken_car\tasks.o: D:\app_keil\keil\ARM\ARMCC\Bin\..\include\stdint.h
+chiken_car\tasks.o: ../../Core/Inc/FreeRTOSConfig.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+chiken_car\tasks.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

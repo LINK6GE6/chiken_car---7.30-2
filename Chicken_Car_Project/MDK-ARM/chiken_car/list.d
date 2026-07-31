@@ -1,0 +1,12 @@
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/list.c
+chiken_car\list.o: D:\app_keil\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+chiken_car\list.o: D:\app_keil\keil\ARM\ARMCC\Bin\..\include\stddef.h
+chiken_car\list.o: D:\app_keil\keil\ARM\ARMCC\Bin\..\include\stdint.h
+chiken_car\list.o: ../../Core/Inc/FreeRTOSConfig.h
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+chiken_car\list.o: ../../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
