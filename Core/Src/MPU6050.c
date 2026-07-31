@@ -248,6 +248,7 @@ void MPU6050_Calibrate_Offset(void)
     }
 
     // 求平均值得到零偏
+    //测试
     gx_offset = gx_sum / CALIBRATION_SAMPLES;
     gy_offset = gy_sum / CALIBRATION_SAMPLES;
     gz_offset = gz_sum / CALIBRATION_SAMPLES;
